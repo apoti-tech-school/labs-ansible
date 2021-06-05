@@ -11,7 +11,7 @@ Each folder corrasponds to a video. Follow along and let's learn ansible togethe
 
 3. In a new Directory copy this respository:
 ``` shell
-git clone https://github.com/bradmorg/ansible-labs.git
+git clone https://github.com/melchilio/labs-ansible.git
 ```
 
 4. Start the vagrant instance.
